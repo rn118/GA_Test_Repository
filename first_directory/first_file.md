@@ -4,7 +4,7 @@ GA in class demo repository
 
 *italics* and **bold**
 
-[link to github](https://github.com)
+[link to markdown cheatsheet]https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 * bullet
 
